@@ -13,8 +13,8 @@ function App() {
     <div className="App">
          <div className="calculator">
              <div className="display">
-              <span>(0)</span> 0
-              </div>
+                 <span>(0)</span> 0 
+             </div>
               <div className="operators">
                 <button>/</button>
                 <button>*</button>
